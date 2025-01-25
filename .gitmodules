@@ -4,3 +4,6 @@
 [submodule "bindmount-app"]
 	path = bindmount-app
 	url = https://github.com/docker/bindmount-apps
+[submodule "welcomedocker"]
+	path = welcomedocker
+	url = https://github.com/docker/welcome-to-docker
