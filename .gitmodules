@@ -1,0 +1,6 @@
+[submodule "multicontainer-app"]
+	path = multicontainer-app
+	url = https://github.com/docker/multi-container-app
+[submodule "bindmount-app"]
+	path = bindmount-app
+	url = https://github.com/docker/bindmount-apps
