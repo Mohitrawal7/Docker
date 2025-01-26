@@ -2,8 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/bindmount-apps" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/multi-container-app" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/welcome-to-docker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bindmount-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/multicontainer-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/welcomedocker" vcs="Git" />
   </component>
 </project>
